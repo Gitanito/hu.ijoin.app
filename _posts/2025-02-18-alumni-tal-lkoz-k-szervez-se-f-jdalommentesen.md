@@ -4,6 +4,7 @@ title: Alumni Találkozók Szervezése Fájdalommentesen
 subtitle: Maximalizáld a Részvételt a Hagyományos Regisztráció Kiküszöbölésével
 tags: [alumni találkozó, eseményszervezés]
 author: ijoin.app
+language: hu
 ---
 
 # Maximalizáld az Alumni Találkozók Részvételét - Nincs Több Kényelmetlen Belépés!

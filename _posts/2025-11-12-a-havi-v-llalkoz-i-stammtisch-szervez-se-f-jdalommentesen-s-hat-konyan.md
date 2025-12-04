@@ -4,6 +4,7 @@ title: A Havi Vállalkozói Stammtisch Szervezése- Fájdalommentesen és Haték
 subtitle: Maximalizálja a Részvételt a Helyi Üzleti Találkozókon - Regisztráció nélkül
 tags: [vállalkozói találkozó, eseményszervezés]
 author: ijoin.app
+language: hu
 ---
 
 # Maximalizálja a Vállalkozói Stammtisch Részvételét- A Titok

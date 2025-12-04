@@ -4,6 +4,7 @@ title: Spórolj Időt és Pénzt - A Tökéletes Telekocsi Szervezés Titka
 subtitle: Felejtsd el a végtelen chatcsoportokat - Így szervezz autómegosztást egyszerűen
 tags: [telekocsi, rendezvényszervezés]
 author: ijoin.app
+language: hu
 ---
 # Spórolj Időt és Pénzt - A Tökéletes Telekocsi Szervezés Titka
 

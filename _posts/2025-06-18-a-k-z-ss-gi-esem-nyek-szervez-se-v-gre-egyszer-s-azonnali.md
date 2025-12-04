@@ -4,6 +4,7 @@ title: A közösségi események szervezése végre egyszerű és azonnali
 subtitle: Nincs többé regisztráció-vadászat - Maximalizáld a részvételt a Skill-Share találkozóidon
 tags: [eseményszervezés, közösségi-találkozó]
 author: ijoin.app
+language: hu
 ---
 # A Skill-Share találkozók szervezése egyetlen kattintással - Maximális részvételi arány
 

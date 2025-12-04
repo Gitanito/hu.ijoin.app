@@ -4,6 +4,7 @@ title: Koncert Előtti Buli Szervezés Stresszmentesen
 subtitle: Hívj meg mindenkit egyetlen linkkel - Maximalizáld a részvételt a fellépés előtt
 tags: [eseményszervezés, koncertbuli]
 author: ijoin.app
+language: hu
 ---
 # Koncert Előtti Buli Szervezés Stresszmentesen - Maximalizáld a Részvételt
 

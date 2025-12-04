@@ -4,6 +4,7 @@ title: Spontán Picknick Szervezés- Felejtsd el a Káoszt
 subtitle: Max. visszajelzés- Nincs regisztráció, csak egyetlen link
 tags: [eseményszervezés, spontán találkozó]
 author: ijoin.app
+language: hu
 ---
 
 # Spontán Piknik Szervezés? Így Kapj Visszajelzést 5 Percen Belül

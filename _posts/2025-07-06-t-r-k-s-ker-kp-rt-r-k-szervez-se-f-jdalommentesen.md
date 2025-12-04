@@ -4,6 +4,7 @@ title: Túrák és Kerékpártúrák Szervezése Fájdalommentesen
 subtitle: Maximalizálja a Részvételt - Regisztráció és App Nélkül
 tags: [eseményszervezés, túraszervezés]
 author: ijoin.app
+language: hu
 ---
 
 # Túrák és Kerékpártúrák Szervezése Fájdalommentesen

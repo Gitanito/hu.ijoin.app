@@ -4,6 +4,7 @@ title: A Heti Könyvklub Szervezése- Végre Egyszerűen
 subtitle: Maximalizálja a részvételt regisztráció nélkül - a titok
 tags: [könyvklub, eseményszervezés]
 author: ijoin.app
+language: hu
 ---
 # A Heti Könyvklub Szervezése- Végre Egyszerűen
 

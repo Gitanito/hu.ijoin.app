@@ -4,6 +4,7 @@ title: A Gyermekszülinapok Szervezésének Új Korszaka - Fájdalommentes RSVP
 subtitle: Felejtsd el a kaotikus válaszokat és a végtelen e-mail láncokat
 tags: [eseményszervezés, születésnap]
 author: ijoin.app
+language: hu
 ---
 # A Gyermekszülinapok Szervezésének Új Korszaka - Fájdalommentes RSVP
 

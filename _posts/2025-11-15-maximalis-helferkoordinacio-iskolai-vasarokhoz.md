@@ -4,6 +4,7 @@ title: Maximalis Helferkoordinacio Iskolai Vasarokhoz
 subtitle: Felejtsd el a kaotikus e-mail láncokat és a hiányzó önkénteseket
 tags: [eseményszervezés, önkéntes]
 author: ijoin.app
+language: hu
 ---
 # Maximalis Helferkoordinacio Iskolai Vasarokhoz: Több önkéntes, Kevesebb Stressz
  

@@ -4,6 +4,7 @@ title: Az After-Work Találkozók Szervezése- Végre Egyszerűen
 subtitle: Felejtse el a végtelen chat üzeneteket és a bizonytalan létszámot!
 tags: [eseményszervezés, after-work]
 author: ijoin.app
+language: hu
 ---
 
 # Az After-Work Találkozók Szervezése- Végre Egyszerűen

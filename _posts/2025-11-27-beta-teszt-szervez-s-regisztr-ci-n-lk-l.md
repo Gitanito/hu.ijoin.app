@@ -4,6 +4,7 @@ title: Beta Teszt Szervezés Regisztráció Nélkül
 subtitle: Maximalizálja a részvételt a privát eseményeinél és tesztjeinél
 tags: [eseményszervezés, beta-teszt]
 author: ijoin.app
+language: hu
 ---
 
 # Felejtse el a bonyolult űrlapokat- A Gyors és Ingyenes Beta Teszt Meghívó Titka

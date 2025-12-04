@@ -4,6 +4,7 @@ title: A Spontán Grillparti Szervezés Titka - Elfelejtheti a Káoszt
 subtitle: Max. részvétel, nulla regisztráció - Így hívjon össze villámgyorsan bárkit
 tags: [eseményszervezés, spontán találkozó]
 author: ijoin.app
+language: hu
 ---
 
 # Spontán Grillparti Szervezés Káoszmentesen - A Részvételi Arány Maximalizálása

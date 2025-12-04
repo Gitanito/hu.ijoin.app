@@ -4,6 +4,7 @@ title: A Tökéletes Visszajelzés-Gyűjtés- Könnyedén és Ingyenesen
 subtitle: Maximalizálja a részvételi arányt a prototípus tesztelésnél
 tags: [eseményszervezés, prototípus tesztelés]
 author: ijoin.app
+language: hu
 ---
 
 # Zseniális UX Visszajelzések Gyűjtése- Regisztráció és Fájdalom Nélkül

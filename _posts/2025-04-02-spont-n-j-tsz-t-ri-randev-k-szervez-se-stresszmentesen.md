@@ -4,6 +4,7 @@ title: Spontán Játszótéri Randevúk Szervezése - Stresszmentesen
 subtitle: Hogyan érj el maximális részvételt a családi és baráti eseményeken egyetlen linkkel
 tags: [eseményszervezés, játszótér]
 author: ijoin.app
+language: hu
 ---
 
 # Spontán Játszótér-Találkozók Szervezése – Felejtse el a Csoportos Üzenetküldés Káoszát!

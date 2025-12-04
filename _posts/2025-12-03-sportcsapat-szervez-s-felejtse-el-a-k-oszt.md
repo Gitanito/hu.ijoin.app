@@ -4,6 +4,7 @@ title: Sportcsapat Szervezés- Felejtse el a Káoszt
 subtitle: Maximális Részvételi Arány a Sporteseményeken- Szülői Bejelentkezés Nélkül
 tags: [sportcsapat szervezés, részvételi visszaigazolás]
 author: ijoin.app
+language: hu
 ---
 # Sportcsapat Szervezés: Hogyan Maximalizálja a Részvételi Arányt a [ijoin.app](https://ijoin.app/index-hu.html) Segítségével
 

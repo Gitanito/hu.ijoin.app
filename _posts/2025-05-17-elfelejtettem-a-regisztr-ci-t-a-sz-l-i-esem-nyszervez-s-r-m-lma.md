@@ -4,6 +4,7 @@ title: Elfelejtettem a regisztrációt- A szülői eseményszervezés rémálma
 subtitle: A végtelen e-mail láncok és a regisztrációs gondok egyszerű megoldása
 tags: [eseményszervezés, szülőiközösség]
 author: ijoin.app
+language: hu
 ---
 # Elég volt a Fejfájásból- Így Növelheti a Részvételi Arányt az Iskolai Eseményeken
 

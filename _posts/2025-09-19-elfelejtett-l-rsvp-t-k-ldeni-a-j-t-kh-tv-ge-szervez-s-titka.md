@@ -4,6 +4,7 @@ title: Elfelejtettél RSVP-t küldeni - A játékhétvége szervezés titka
 subtitle: Maximalizáld a részvételt a társasjáték esteken regisztráció nélkül
 tags: [eseményszervezés, társasjáték]
 author: ijoin.app
+language: hu
 ---
 # Elfelejtettél RSVP-t küldeni- A játékhétvége szervezés titka
 

@@ -4,6 +4,7 @@ title: A Pop-up Vacsora Szervezés Titka- Nincs több káosz a vendéglistákkal
 subtitle: Hogyan érj el 100 százalékos visszaigazolást regisztráció és jelszavak nélkül
 tags: [eseményszervezés, pop-up dinner]
 author: ijoin.app
+language: hu
 ---
 
 # Az Exkluzív Pop-up Vacsora- A tökéletes vendéglista kezelése regisztráció nélkül

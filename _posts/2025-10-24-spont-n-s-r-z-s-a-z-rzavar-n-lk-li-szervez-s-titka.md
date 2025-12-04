@@ -4,6 +4,7 @@ title: Spontán Sörözés- A Zűrzavar Nélküli Szervezés Titka
 subtitle: Hívj össze egy baráti kört 3 perc alatt- Regisztráció nélkül, maximális részvétellel
 tags: [eseményszervezés, spontán találkozó]
 author: ijoin.app
+language: hu
 ---
 
 # Spontán Sörözés? Így Hozd Össze a Csapatot Káosz Nélkül!

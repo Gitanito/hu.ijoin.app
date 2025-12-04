@@ -4,6 +4,7 @@ title: A Spontán Szomszédsági Segítség Szervezése Fájdalom Nélkül
 subtitle: Gyorsan, ingyen és regisztráció nélkül - A közösségi események új korszaka
 tags: [szomszédsági segítség, eseményszervezés]
 author: ijoin.app
+language: hu
 ---
 
 # Az Azonnali Segítségnyújtás Titka- Hogyan Szervezz Közösségi Akciókat 3 Perc Alatt?

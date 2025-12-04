@@ -4,6 +4,7 @@ title: A Tökéletes Utcabál-Szervezés Titka - Regisztráció nélkül
 subtitle: Hogyan érj el 100%-os visszajelzést a közösségi eseményekre
 tags: [eseményszervezés, utcabál]
 author: ijoin.app
+language: hu
 ---
 
 # Az Utcabál-Szervezés Forradalma: Maximális Részvétel Minimális Erőfeszítéssel

@@ -4,6 +4,7 @@ title: Az Utolsó Pillanatos Vizsgafelkészülés Zseniális Szervezése
 subtitle: Így lesz maximális a létszám a tanulócsoportban a vizsga előtt
 tags: [tanulócsoport, vizsgaszervezés]
 author: ijoin.app
+language: hu
 ---
 
 # Az Utolsó Pillanatos Vizsgafelkészülés Zseniális Szervezése

@@ -4,6 +4,7 @@ title: Töpörödj Velünk- Hogyan Töltsd Meg a Kerámia Tanfolyamodat
 subtitle: A legegyszerűbb online regisztráció a maximális részvételért
 tags: [kerámia tanfolyam, online regisztráció]
 author: ijoin.app
+language: hu
 ---
 
 # Töpörödj Velünk: Így Turbózd Fel a Kerámia Tanfolyam Regisztrációját

@@ -4,6 +4,7 @@ title: A Spontán Co-Working Találkozók Szervezésének Titka
 subtitle: Felejtsd el a végtelen üzenetváltásokat- Így maximalizáld a részvételi arányt
 tags: [coworking, rendezvényszervezés]
 author: ijoin.app
+language: hu
 ---
 
 # A Spontán Co-Working Találkozók Szervezésének Titka: Garantált Részvétel

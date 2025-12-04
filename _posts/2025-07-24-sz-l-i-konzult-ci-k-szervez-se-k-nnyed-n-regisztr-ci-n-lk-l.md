@@ -4,6 +4,7 @@ title: Szülői Konzultációk Szervezése Könnyedén Regisztráció Nélkül
 subtitle: Maximalizálja a részvételt az időpontfoglalás egyszerűsítésével
 tags: [szülői konzultáció, időpontfoglalás]
 author: ijoin.app
+language: hu
 ---
 
 # Optimalizált Időpontfoglalás Szülői Konzultációhoz: Felejtse el az Excel-t!

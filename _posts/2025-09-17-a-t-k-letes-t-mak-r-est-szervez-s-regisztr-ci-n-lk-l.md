@@ -4,6 +4,7 @@ title: A Tökéletes Témakör-Est- Szervezés- Regisztráció nélkül
 subtitle: Maximalizálja a részvételt- A könyvtári estek és közösségi programok titka
 tags: [eseményszervezés, közösség]
 author: ijoin.app
+language: hu
 ---
 
 # Maximalizálja a Részvételt a Témakör-Esteken – Kezdje a Regisztrációmentes Szervezést!

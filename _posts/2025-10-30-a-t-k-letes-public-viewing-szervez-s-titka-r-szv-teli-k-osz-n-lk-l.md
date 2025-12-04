@@ -4,6 +4,7 @@ title: A Tökéletes Public Viewing Szervezés Titka - Részvételi Káosz Nélk
 subtitle: Gyűjtsd össze a barátokat a nagy meccsre regisztráció és felesleges körök nélkül
 tags: [public viewing, sportesemény szervezés]
 author: ijoin.app
+language: hu
 ---
 
 # Közös Sportesemény Nézés- Maximum Látogatószám, Nulla Fejfájás

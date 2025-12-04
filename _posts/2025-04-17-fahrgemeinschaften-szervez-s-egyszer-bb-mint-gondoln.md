@@ -4,6 +4,7 @@ title: Fahrgemeinschaften-Szervezés - Egyszerűbb, Mint Gondolná
 subtitle: Felejtsd el a végtelen e-maileket - Így maximalizáld a részvételt
 tags: [eseményszervezés, fuvarszervezés]
 author: ijoin.app
+language: hu
 ---
 
 # Hozd Létre a Tökéletes Fuvarszervezést Iskolai Kirándulásokhoz és Sporteseményekhez

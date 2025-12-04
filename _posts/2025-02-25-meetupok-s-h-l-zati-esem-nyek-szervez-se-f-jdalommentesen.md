@@ -4,6 +4,7 @@ title: Meetupok és Hálózati Események Szervezése- Fájdalommentesen
 subtitle: Maximalizálja a Részvételt a Branchen-Meetupokon- Regisztráció Nélkül
 tags: [eseményszervezés, meetup]
 author: ijoin.app
+language: hu
 ---
 
 # A Professzionális Meetupok Titka: Több Résztvevő, Kevesebb Adminisztráció

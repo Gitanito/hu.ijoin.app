@@ -4,6 +4,7 @@ title: Művészeti Workshopok Szervezése- A Regisztrációs Fájdalom Nélkül
 subtitle: Maximalizálja a résztvevők számát egyetlen, egyszerű linkkel
 tags: eseményszervezés, workshop
 author: ijoin.app
+language: hu
 ---
 # Kreatív Workshopok Szervezése- Felejtse El a Jelentkezési Űrlapokat!
 
